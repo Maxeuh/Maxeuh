@@ -1,4 +1,7 @@
-### Hi there 👋
+### Bienvenue sur ma page GitHub 👋
+
+Actuellement il n'y a pas grand chose ici.
+J'utilise GitHub pour m'amuser en apprenant quelques bricoles...
 
 <!--
 **Maxeuh/Maxeuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
